@@ -10,7 +10,7 @@ Amazon Vine Analysis determines if there's any biased based on paid vs unpaid re
 ## Results:
 
 ### Total Vine Reviews:
-[paid reviews count](/images/01_paid_reviews_count.PNG)
+[paid reviews count](images/01_paid_reviews_count.PNG)
 
 
 
